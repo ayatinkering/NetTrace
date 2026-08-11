@@ -50,7 +50,6 @@ NetTrace is structured as a three-tier system: the **Control / Application Layer
 └────────────────────────────────────────────────────────┘
 ```
 
----
 
 ## Core Concept: What We're Doing
 

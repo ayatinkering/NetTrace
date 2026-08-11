@@ -73,9 +73,8 @@ These features are used to train a Random Forest model. We evaluate the model's 
 * **Traffic Capture & Ingestion**: `tshark` (Wireshark CLI), PyShark, Python, `pandas`
 * **Forensic Storage**: SQLite
 * **Machine Learning**: `scikit-learn` (Random Forest Classifier), `joblib` (model serialization)
-* **Backend API Layer**: FastAPI (ASGI server, automated OpenAPI/Swagger docs)
-* **User Dashboard**: React, TailwindCSS, Recharts
-* **Version Control**: Git / GitHub
+* **Backend API Layer**: FastAPI (ASGI server, automated Swagger docs)
+* **User Dashboard**: React, TailwindCSS
 
 
 ## Project Directory Structure
